@@ -19,9 +19,8 @@
 1. **Install Dependencies**  
    ```bash
    npm install
- ```
-use .env.example
+
+use .env.example add your OPENAI_API_KEY
 
 ```bash
  npm run start "prompte user"
- ```
